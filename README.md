@@ -5,41 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>@akshaykumar__v_j - Software Engineer (Gaming Mode)</title>
-  <style>
-    body {
-      font-family: 'Courier New', monospace;
-      background-color: #121212;
-      color: #fff;
-      line-height: 1.6;
-      margin: 20px;
-    }
-
-    h1, h2 {
-      color: #00ff00;
-    }
-
-    p {
-      color: #ccc;
-    }
-
-    .profile-section {
-      margin-bottom: 20px;
-    }
-
-    .contact-info {
-      margin-top: 30px;
-      background-color: #1f1f1f;
-      padding: 10px;
-      border-radius: 5px;
-    }
-
-    .contact-info a {
-      color: #00ff00;
-      text-decoration: none;
-      font-weight: bold;
-    }
-  </style>
-</head>
+ </head>
 
 <body>
   <div class="profile-section">
